@@ -15,6 +15,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
+
 public class RobotFXApplication extends Application {
 
     // UI Components
